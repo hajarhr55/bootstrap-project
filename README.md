@@ -48,8 +48,8 @@ As part of a personal practice and improvement project.
 
 ## 🌊 نسختي
 
-عملت على القالب لممارسة وتطوير مهاراتي في Bootstrap.
-🔗 [Bondi – نسختي ](https://hajarhr55.github.io/bootstrap-project/)
+عملت على القالب لممارسة وتطوير مهاراتي في Bootstrap.  
+🔗 [Bondi – نسختي](https://hajarhr55.github.io/bootstrap-project/)
 
 ## 📌 المميزات
 
